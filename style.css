@@ -1,0 +1,90 @@
+#nav-name {
+    font-size:4em;
+}
+
+#bodyinfo {
+    background-color: rgba(0,0,0,0.3);
+    border:1px rgba(255,255,255,0.2) solid;
+    padding:20px;
+    border-radius:1%;
+    color:white;
+    text-align:justify;
+
+}
+
+#port-text {
+    font-size:2em;
+    padding:10px 0;
+}
+
+#submit-btn {
+    float:right;
+}
+
+#form-btm {
+    margin-top:40px;
+    padding-bottom:40px;
+}
+
+#input-row {
+    padding:50px 20px;
+}
+
+.navbar-default {
+    background-color:transparent;
+    border:transparent;
+    padding-top:15px;
+ }
+
+.navbar-default .navbar-brand {
+    color:white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:white;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover {
+    border-bottom:1px white solid;
+    background-color:transparent;
+    color:white;
+    font-size:1em;
+}
+
+.img-custom {
+    width:100%;
+    border:1px rgba(0,0,0,0.3) solid;
+    border-radius:1%;
+}
+
+.row {
+    padding-top:20px;
+}
+
+.port-img {
+    width:100%;
+    height:auto;
+}
+
+.port-img-size {
+    height:100%;
+    padding-bottom:10px;
+}
+
+body {
+    background: url('assets/images/dino-reichmuth-98982-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+    font-family: 'Raleway', sans-serif;
+
+}
+
+hr {
+    padding:0;
+    margin:0;
+}
